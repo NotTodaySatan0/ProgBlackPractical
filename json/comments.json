@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "commentId": 1,
+      "commentText": "Great Question! Unfortunately I don't know the answer.",
+      "linkedToPost": "2"
+    },
+    {
+      "commentId": 0,
+      "commentText": "Go to the hospital and make sure you don’t have a concussion!",
+      "linkedToPost": "3"
+    },
+    {
+      "commentId": 0,
+      "commentText": "Learn how to make pancakes and invite them back.",
+      "linkedToPost": "5"
+    },
+    {
+      "commentId": 0,
+      "commentText": "Here is a helpful answer to your question. Good luck!",
+      "linkedToPost": "2"
+    },
+    {
+      "commentId": 0,
+      "commentText": "I would do this but I can't tell from the question. Add a comment to clear some things up.",
+      "linkedToPost": "1"
+    },
+    {
+      "commentId": 0,
+      "commentText": "Try and do a back-roll first and slowly progress to a backflip.",
+      "linkedToPost": "4"
+    },
+    {
+      "commentId": 0,
+      "commentText": "Here is a great recipe I found online I would use this one.",
+      "linkedToPost": "6"
+    },
+    {
+      "commentId": 0,
+      "commentText": "This is my grandmothers recipe!",
+      "linkedToPost": "6"
+    }
+  ]
+}

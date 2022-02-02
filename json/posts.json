@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "title": "Example Advice Post",
+            "postType": "Advice",
+            "content": "Please give me advice on this random topic. Please comment all of your advice down below.",
+            "postId": 1
+        },
+        {
+            "title": "Example Question Post",
+            "postType": "Question",
+            "content": "Please answer this random question. Please comment the answer down below.",
+            "postId": 2
+        },
+        {
+            "title": "My head hurts!",
+            "postType": "Advice",
+            "content": "I have landed on my head attempting to do a backflip multiple times... What would you do?",
+            "postId": 3
+        },
+        {
+            "title": "A second Question Post",
+            "postType": "Question",
+            "content": "How can I do a backflip? I've been trying for years...",
+            "postId": 4
+        },
+        {
+            "title": "My friend now hates my because I lied about knowing how to make pancakes",
+            "postType": "Advice",
+            "content": "I invited them to my house and told them I knew how to make pancakes. They hate me now. What would you do?",
+            "postId": 5
+        },
+        {
+            "title": "How do you make pancakes?",
+            "postType": "Question",
+            "content": "I invited someone to my house to make them pancakes. I was hoping they would know how to make them. Please help.",
+            "postId": 6
+        }
+    ]
+}
